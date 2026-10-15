@@ -2,8 +2,7 @@
 
 **LAM Research Challenge 3.0 — Hardware & Automation**
 
-**Repository name:** LAM-Research-Challenge-Velvet-Voltage
+**Team name:** Velvet Voltage
 
-It will include a professional README, team details, hardware overview, wiring documentation, and separate folders for Case 1 and Case 2 ESP32 programs.
-
+Drive link for the videos : https://drive.google.com/drive/folders/1dHIJTLSfCr6HKXVExPJ6rE9s4KHa3LSd?usp=sharing
 
